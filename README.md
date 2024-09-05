@@ -38,7 +38,7 @@ I'm a passionate **Full Stack Developer** with a knack for creating dynamic and 
 
 ## 📫 Connect with Me
 
-- 📫 [Email] **daviekingz.dk@gmail.com**
+- 📫 **daviekingz.dk@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/josh-king-703718196/)
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
